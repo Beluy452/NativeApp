@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 12280,
-  "expoServerNgrokUrl": "https://mf-b4e.anonymous.nativeapp.exp.direct",
-  "packagerNgrokUrl": "https://packager.mf-b4e.anonymous.nativeapp.exp.direct",
-  "ngrokPid": 9292
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
